@@ -1,1 +1,1 @@
-# zadanie11.6
+# Prosty Kanban
